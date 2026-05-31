@@ -43,7 +43,11 @@ def inject_custom_css():
 
         /* Mode indicator */
         .mode-story {
+<<<<<<< HEAD
             background: linear-gradient(90deg, #1a3a5c, #2a5a8c);
+=======
+            background: linear-gradient(90deg, #5c1a5b, #2a5a8c);
+>>>>>>> ed00e0d (Replace old files with new versions)
             padding: 0.5rem 1rem;
             border-radius: 8px;
             color: #c0dcf0;
@@ -69,8 +73,15 @@ def inject_custom_css():
         /* Sidebar */
         section[data-testid="stSidebar"] {
             background: linear-gradient(180deg, #0f0c29, #1a1a3e);
+<<<<<<< HEAD
         }
         section[data-testid="stSidebar"] .stMarkdown {
+=======
+            width: 350px !important;
+        }
+        section[data-testid="stSidebar"] .stMarkdown {
+
+>>>>>>> ed00e0d (Replace old files with new versions)
             color: #c0c0e0;
         }
         </style>
@@ -130,7 +141,11 @@ def render_mode_selector() -> str:
 # ------------------------------------------------------------------
 # Sidebar
 # ------------------------------------------------------------------
+<<<<<<< HEAD
 def render_sidebar(mode: str, exchange_count: int = 0):
+=======
+def render_sidebar(mode: str, exchange_count: int = 0, story_exchange_count: int = 0):
+>>>>>>> ed00e0d (Replace old files with new versions)
     """Render sidebar with session info and controls."""
     with st.sidebar:
         st.markdown("## 🛰️ Wolf 359")
@@ -142,6 +157,7 @@ def render_sidebar(mode: str, exchange_count: int = 0):
         st.markdown(f"**Mode:** {mode_label}")
 
         if mode == "character":
+<<<<<<< HEAD
             st.markdown(f"**Memory:** {exchange_count} / 10 exchanges")
             if st.button("🗑️ Clear Conversation", use_container_width=True):
                 return "clear_history"
@@ -186,6 +202,20 @@ def render_sidebar(mode: str, exchange_count: int = 0):
     return None
 
 
+=======
+            
+            if st.button("🗑️ Clear Conversation", use_container_width=True):
+                return "clear_history"
+            st.caption("⚠️ (This will clear the conversation memory for this session)")
+
+        elif mode == "story":
+            
+            if st.button("🗑️ Clear Story Memory", use_container_width=True):
+                return "clear_story_history"   # ← caller handles this signal
+            st.caption("⚠️ (This will clear the story memory for this session)")
+
+        # ... rest of sidebar unchanged
+>>>>>>> ed00e0d (Replace old files with new versions)
 # ------------------------------------------------------------------
 # Chat display
 # ------------------------------------------------------------------
@@ -200,3 +230,8 @@ def render_chat(messages: list[dict]):
         avatar = "🧑" if msg["role"] == "user" else "🛰️"
         with st.chat_message(msg["role"], avatar=avatar):
             st.markdown(msg["content"])
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> ed00e0d (Replace old files with new versions)

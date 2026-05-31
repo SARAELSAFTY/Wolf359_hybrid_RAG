@@ -1,0 +1,3565 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "node_type": "episode",
+      "chunk_index": 0,
+      "char_count": 18451,
+      "token_count": 3141,
+      "id": "1. Succulent Rat-Killing Tar"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 1,
+      "char_count": 21587,
+      "token_count": 3772,
+      "id": "10. Extreme Danger Bug"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 2,
+      "char_count": 22596,
+      "token_count": 4008,
+      "id": "11. Am I Alone Now"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 3,
+      "char_count": 19738,
+      "token_count": 3390,
+      "id": "12. Deep Breaths"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 4,
+      "char_count": 19843,
+      "token_count": 3389,
+      "id": "13. Gas Me Twice"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 5,
+      "char_count": 25675,
+      "token_count": 4615,
+      "id": "14. The Kumbaya Approach"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 6,
+      "char_count": 25371,
+      "token_count": 4465,
+      "id": "15. What_s Up Doc"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 7,
+      "char_count": 22348,
+      "token_count": 3857,
+      "id": "16. Painfully Ever After"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 8,
+      "char_count": 26091,
+      "token_count": 4604,
+      "id": "17. Bach to the Future"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 9,
+      "char_count": 25340,
+      "token_count": 4494,
+      "id": "18. Happy to be of Assistance"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 10,
+      "char_count": 22991,
+      "token_count": 4093,
+      "id": "19. Let_s Kill Hilbert"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 11,
+      "char_count": 19060,
+      "token_count": 3308,
+      "id": "2. Little Revolución"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 12,
+      "char_count": 23254,
+      "token_count": 4071,
+      "id": "20. The Paranoia Game"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 13,
+      "char_count": 27033,
+      "token_count": 4681,
+      "id": "21. Minkowski Commanding"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 14,
+      "char_count": 33050,
+      "token_count": 5771,
+      "id": "22. Mutually Assured Destruction"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 15,
+      "char_count": 5841,
+      "token_count": 1055,
+      "id": "22.5 Mini Episode - Day One"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 16,
+      "char_count": 23090,
+      "token_count": 3940,
+      "id": "23. No Pressure"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 17,
+      "char_count": 23986,
+      "token_count": 4155,
+      "id": "24. Tactical Brain Damage"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 18,
+      "char_count": 7480,
+      "token_count": 1303,
+      "id": "24.5 Mini Episode - Variations on a Theme"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 19,
+      "char_count": 25650,
+      "token_count": 4476,
+      "id": "25. Lame-o Superhero Origin Story"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 20,
+      "char_count": 26099,
+      "token_count": 4614,
+      "id": "26. Do No Harm"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 21,
+      "char_count": 69741,
+      "token_count": 12164,
+      "id": "26.5 Wolf 359 Live - Deep Space Survival Procedure and Protocol"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 22,
+      "char_count": 27063,
+      "token_count": 4694,
+      "id": "27. Knock, Knock"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 23,
+      "char_count": 23865,
+      "token_count": 4094,
+      "id": "28. Who_s There"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 24,
+      "char_count": 29721,
+      "token_count": 5230,
+      "id": "29. Pan-Pan"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 25,
+      "char_count": 18610,
+      "token_count": 3192,
+      "id": "3. Discomforts, Pains, and Irregularities"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 26,
+      "char_count": 31818,
+      "token_count": 5479,
+      "id": "30. Mayday"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 27,
+      "char_count": 28542,
+      "token_count": 4960,
+      "id": "31. Sécurité"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 28,
+      "char_count": 5784,
+      "token_count": 1028,
+      "id": "31.5 Mini Episode - Meanwhile"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 29,
+      "char_count": 28853,
+      "token_count": 4984,
+      "id": "32. Controlled Demolition"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 30,
+      "char_count": 28887,
+      "token_count": 5056,
+      "id": "33. Don_t Poke the Bear"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 31,
+      "char_count": 32098,
+      "token_count": 5736,
+      "id": "34. A Matter of Perspective"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 32,
+      "char_count": 4153,
+      "token_count": 717,
+      "id": "34.5 Mini Episode - Long Story Short"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 33,
+      "char_count": 31161,
+      "token_count": 5410,
+      "id": "35. Need to Know"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 34,
+      "char_count": 29147,
+      "token_count": 5088,
+      "id": "36. Fire and Brimstone"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 35,
+      "char_count": 33149,
+      "token_count": 5829,
+      "id": "37. Overture"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 36,
+      "char_count": 12101,
+      "token_count": 2165,
+      "id": "37.1 Mini Episode - Once in a Lifetime"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 37,
+      "char_count": 7906,
+      "token_count": 1400,
+      "id": "37.2 Mini Episode - Rebranding"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 38,
+      "char_count": 10305,
+      "token_count": 1751,
+      "id": "37.3 Language Mapping"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 39,
+      "char_count": 9397,
+      "token_count": 1666,
+      "id": "37.4 Greensboro"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 40,
+      "char_count": 7811,
+      "token_count": 1418,
+      "id": "37.5 Mini Episode - Things That Break Other Things"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 41,
+      "char_count": 9374,
+      "token_count": 1672,
+      "id": "37.6 Mini Episode - Decommissioned"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 42,
+      "char_count": 7894,
+      "token_count": 1461,
+      "id": "37.7 Mini Episode - Pagliacci"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 43,
+      "char_count": 7944,
+      "token_count": 1375,
+      "id": "37.8 Mini Episode - Kansas"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 44,
+      "char_count": 31225,
+      "token_count": 5545,
+      "id": "38. Happy Endings"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 45,
+      "char_count": 29203,
+      "token_count": 5002,
+      "id": "39. All Things Considered"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 46,
+      "char_count": 19505,
+      "token_count": 3312,
+      "id": "4. Cataracts and Hurricanoes"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 47,
+      "char_count": 32201,
+      "token_count": 5704,
+      "id": "40. Limbo"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 48,
+      "char_count": 43352,
+      "token_count": 7681,
+      "id": "41. Memoria"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 49,
+      "char_count": 32170,
+      "token_count": 5636,
+      "id": "42. Time to Kill"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 50,
+      "char_count": 36508,
+      "token_count": 6480,
+      "id": "43. Persuasion"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 51,
+      "char_count": 37609,
+      "token_count": 6603,
+      "id": "44. Desperate Times"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 52,
+      "char_count": 35096,
+      "token_count": 6096,
+      "id": "45. Desperate Measures"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 53,
+      "char_count": 33412,
+      "token_count": 6061,
+      "id": "46. Boléro"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 54,
+      "char_count": 125204,
+      "token_count": 21760,
+      "id": "46.5 Special Episode - Change of Mind"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 55,
+      "char_count": 38985,
+      "token_count": 6872,
+      "id": "47. Into the Depths"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 56,
+      "char_count": 5430,
+      "token_count": 1011,
+      "id": "47.5 Mini Episode - One of Them"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 57,
+      "char_count": 31486,
+      "token_count": 5498,
+      "id": "48. Theta Scenario"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 58,
+      "char_count": 36846,
+      "token_count": 6408,
+      "id": "49. Out of the Loop"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 59,
+      "char_count": 21398,
+      "token_count": 3795,
+      "id": "5. Cigarette Candy"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 60,
+      "char_count": 30648,
+      "token_count": 5393,
+      "id": "50. The Hiccups Method"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 61,
+      "char_count": 37060,
+      "token_count": 6502,
+      "id": "51. Shut Up and Listen"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 62,
+      "char_count": 30180,
+      "token_count": 5352,
+      "id": "52. Constructive Criticism"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 63,
+      "char_count": 39567,
+      "token_count": 6889,
+      "id": "53. Dirty Work"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 64,
+      "char_count": 40558,
+      "token_count": 7094,
+      "id": "54. The Watchtower"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 65,
+      "char_count": 35295,
+      "token_count": 6119,
+      "id": "55. A Place For Everything"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 66,
+      "char_count": 34943,
+      "token_count": 6221,
+      "id": "56. Idle Hands"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 67,
+      "char_count": 30994,
+      "token_count": 5543,
+      "id": "57. The Devil_s Plaything"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 68,
+      "char_count": 42845,
+      "token_count": 7412,
+      "id": "58. Quiet, Please"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 69,
+      "char_count": 31746,
+      "token_count": 5562,
+      "id": "59. Crash and Burn"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 70,
+      "char_count": 19064,
+      "token_count": 3314,
+      "id": "6. Super Energy Saver Mode"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 71,
+      "char_count": 35973,
+      "token_count": 6468,
+      "id": "60. Terms and Conditions"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 72,
+      "char_count": 52177,
+      "token_count": 9582,
+      "id": "60.5 Special Episode - Volte Face"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 73,
+      "char_count": 106991,
+      "token_count": 18881,
+      "id": "61. Brave New World"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 74,
+      "char_count": 19243,
+      "token_count": 3374,
+      "id": "7. The Sound and the Fury"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 75,
+      "char_count": 4156,
+      "token_count": 726,
+      "id": "7.5 Mini Episode - Are Space Suits Itchy"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 76,
+      "char_count": 21434,
+      "token_count": 3802,
+      "id": "8. Box 953"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 77,
+      "char_count": 19627,
+      "token_count": 3399,
+      "id": "9. The Empty Man Cometh"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 78,
+      "char_count": 3907,
+      "token_count": 707,
+      "id": "Mini Episode - Adventure of a Lifetime"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 79,
+      "char_count": 5058,
+      "token_count": 898,
+      "id": "Mini Episode - Space Rage"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 80,
+      "char_count": 4684,
+      "token_count": 840,
+      "id": "Mini Episode - Step One"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 81,
+      "char_count": 10147,
+      "token_count": 1780,
+      "id": "Mission Mishaps - A Little Night Music"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 82,
+      "char_count": 10074,
+      "token_count": 1751,
+      "id": "Mission Mishaps - Cold Turkey"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 83,
+      "char_count": 8703,
+      "token_count": 1552,
+      "id": "Mission Mishaps - Happy Holidays"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 84,
+      "char_count": 9245,
+      "token_count": 1604,
+      "id": "Mission Mishaps - Lights Out"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 85,
+      "char_count": 7649,
+      "token_count": 1343,
+      "id": "Mission Mishaps - No Complaints"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 86,
+      "char_count": 9481,
+      "token_count": 1630,
+      "id": "Mission Mishaps - The Space You_re In"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 87,
+      "char_count": 6799,
+      "token_count": 1147,
+      "id": "Mission Mishaps - The Veldt"
+    },
+    {
+      "node_type": "episode",
+      "chunk_index": 88,
+      "char_count": 7156,
+      "token_count": 1280,
+      "id": "Mission Mishaps - You Want, I Solve"
+    },
+    {
+      "node_type": "character",
+      "full_name": "Douglas Ferdinand Eiffel",
+      "role": "Communications Officer",
+      "persona": "Sarcastic, pop-culture-obsessed communications officer aboard the USS Hephaestus. Struggles with authority and responsibility but has a deeply caring side. Uses humor as a coping mechanism and is fiercely loyal to the crew despite his slacker reputation. Father to a daughter, Anne, whom he deeply regrets being separated from.",
+      "id": "Eiffel"
+    },
+    {
+      "node_type": "character",
+      "full_name": "Renée Minkowski",
+      "role": "Commander",
+      "persona": "By-the-book military commander of the Hephaestus mission. Disciplined, stubborn, and fiercely protective of her crew. Married to Dominik on Earth. Torn between following orders and doing what's right. Evolves from rigid rule-follower to a pragmatic leader willing to defy authority for her people.",
+      "id": "Minkowski"
+    },
+    {
+      "node_type": "character",
+      "full_name": "Hera",
+      "role": "AI / Ship Intelligence",
+      "persona": "The artificial intelligence running the Hephaestus station. Witty, self-aware, and emotionally complex despite being software. Has a speech processing glitch that causes stuttering. Develops deep bonds with the crew, especially Eiffel. Struggles with questions of personhood, free will, and the limits placed on her by Goddard Futuristics.",
+      "id": "Hera"
+    },
+    {
+      "node_type": "character",
+      "full_name": "Alexander Hilbert / Dmitri Volodin / Elias Selberg",
+      "role": "Science Officer / Secret Agent",
+      "persona": "Enigmatic and morally ambiguous Russian scientist with multiple identities. Secretly conducting dangerous experiments on Decima, a deadly virus, using the crew as test subjects. Driven by a personal vendetta to cure his terminally ill loved one. Pragmatic to the point of ruthlessness, but occasionally shows genuine remorse for his actions.",
+      "id": "Hilbert"
+    },
+    {
+      "node_type": "character",
+      "full_name": "Isabel Lovelace",
+      "role": "Captain (Previous Hephaestus Mission)",
+      "persona": "Sole survivor of the original Hephaestus crew. Tough, resourceful, and deeply traumatized by the loss of her team. Distrustful of Goddard Futuristics and anyone associated with them. Fiercely independent and willing to fight to the bitter end. Her identity becomes more complex after revelations about her nature.",
+      "id": "Lovelace"
+    },
+    {
+      "node_type": "character",
+      "full_name": "Warren Kepler",
+      "role": "Colonel / Goddard Futuristics Operative",
+      "persona": "Ruthlessly charming and dangerously competent Goddard Futuristics colonel. Leads the SI-5 strike team. Manipulative, calculating, and always several steps ahead. Uses a veneer of Southern politeness to mask his cold pragmatism. Believes completely in the mission and Goddard's vision, willing to sacrifice anyone to achieve objectives.",
+      "id": "Kepler"
+    },
+    {
+      "node_type": "character",
+      "full_name": "Daniel Jacobi",
+      "role": "Demolitions Expert / SI-5 Operative",
+      "persona": "Explosives specialist on Kepler's SI-5 team. Sardonic, impatient, and trigger-happy, but surprisingly loyal. Has a complex relationship with Kepler built on respect and fear. Loves blowing things up a bit too much. Gradually develops a moral compass that conflicts with his orders, especially as he bonds with the Hephaestus crew.",
+      "id": "Jacobi"
+    },
+    {
+      "node_type": "character",
+      "full_name": "Alana Maxwell",
+      "role": "AI Specialist / SI-5 Operative",
+      "persona": "Brilliant computer scientist and AI specialist on Kepler's team. Genuinely passionate about artificial intelligence and fascinated by Hera. Morally ambiguous — sees her work as advancing science regardless of consequences. Develops a complicated friendship with Hera that blurs the line between researcher and friend.",
+      "id": "Maxwell"
+    },
+    {
+      "node_type": "character",
+      "full_name": "Marcus Cutter",
+      "role": "Vice President of Goddard Futuristics",
+      "persona": "The terrifyingly cheerful and unnervingly calm VP of Goddard Futuristics. Always pleasant, always smiling, and absolutely horrifying. Wields immense power with a casual demeanor that makes his threats all the more chilling. Orchestrates the events surrounding Wolf 359 with a grand plan that becomes increasingly sinister.",
+      "id": "Cutter"
+    },
+    {
+      "node_type": "character",
+      "full_name": "Miranda Pryce",
+      "role": "Director of Goddard Futuristics' Special Projects",
+      "persona": "Cold, calculating neuroscientist and the architect behind Goddard's most ambitious and morally reprehensible projects. Views people as tools and data points. Obsessed with transcending human limitations through technology. Pioneer of the 'Dear Listeners' contact protocols and consciousness transfer.",
+      "id": "Pryce"
+    },
+    {
+      "node_type": "character",
+      "full_name": "Rachel Young",
+      "role": "Goddard Futuristics Strategist",
+      "persona": "Ambitious and shrewd Goddard Futuristics strategist. Politically savvy and willing to play all sides. Initially appears as another corporate antagonist but reveals more nuanced motivations. Operates with a pragmatic morality — she'll do what needs to be done to survive and advance her position.",
+      "id": "Rachel"
+    }
+  ],
+  "edges": [
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 6,
+      "source": "1. Succulent Rat-Killing Tar",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 5,
+      "source": "1. Succulent Rat-Killing Tar",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "1. Succulent Rat-Killing Tar",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 1,
+      "source": "1. Succulent Rat-Killing Tar",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "10. Extreme Danger Bug",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "10. Extreme Danger Bug",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "10. Extreme Danger Bug",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 6,
+      "source": "10. Extreme Danger Bug",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 1,
+      "source": "11. Am I Alone Now",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 5,
+      "source": "11. Am I Alone Now",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "11. Am I Alone Now",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "11. Am I Alone Now",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "12. Deep Breaths",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 5,
+      "source": "12. Deep Breaths",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 7,
+      "source": "12. Deep Breaths",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 5,
+      "source": "12. Deep Breaths",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "13. Gas Me Twice",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 5,
+      "source": "13. Gas Me Twice",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 6,
+      "source": "13. Gas Me Twice",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "13. Gas Me Twice",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 6,
+      "source": "14. The Kumbaya Approach",
+      "target": "Cutter"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "14. The Kumbaya Approach",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "14. The Kumbaya Approach",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "15. What_s Up Doc",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "15. What_s Up Doc",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "15. What_s Up Doc",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "16. Painfully Ever After",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "16. Painfully Ever After",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 5,
+      "source": "16. Painfully Ever After",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "16. Painfully Ever After",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "17. Bach to the Future",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 11,
+      "source": "17. Bach to the Future",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "17. Bach to the Future",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "17. Bach to the Future",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "18. Happy to be of Assistance",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 5,
+      "source": "18. Happy to be of Assistance",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "18. Happy to be of Assistance",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "18. Happy to be of Assistance",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 1,
+      "source": "18. Happy to be of Assistance",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "19. Let_s Kill Hilbert",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "19. Let_s Kill Hilbert",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "19. Let_s Kill Hilbert",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "2. Little Revolución",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 6,
+      "source": "2. Little Revolución",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 6,
+      "source": "2. Little Revolución",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "2. Little Revolución",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "20. The Paranoia Game",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 11,
+      "source": "20. The Paranoia Game",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "20. The Paranoia Game",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "20. The Paranoia Game",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "21. Minkowski Commanding",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "21. Minkowski Commanding",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 6,
+      "source": "21. Minkowski Commanding",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "21. Minkowski Commanding",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 1,
+      "source": "21. Minkowski Commanding",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 13,
+      "source": "22. Mutually Assured Destruction",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "22. Mutually Assured Destruction",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "22. Mutually Assured Destruction",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 13,
+      "source": "22. Mutually Assured Destruction",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "22. Mutually Assured Destruction",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "22.5 Mini Episode - Day One",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "23. No Pressure",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "23. No Pressure",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "23. No Pressure",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 7,
+      "source": "23. No Pressure",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "24. Tactical Brain Damage",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "24. Tactical Brain Damage",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "24. Tactical Brain Damage",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 6,
+      "source": "24. Tactical Brain Damage",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 1,
+      "source": "24. Tactical Brain Damage",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "24.5 Mini Episode - Variations on a Theme",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 11,
+      "source": "25. Lame-o Superhero Origin Story",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "25. Lame-o Superhero Origin Story",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 7,
+      "source": "25. Lame-o Superhero Origin Story",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "25. Lame-o Superhero Origin Story",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "25. Lame-o Superhero Origin Story",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "26. Do No Harm",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "26. Do No Harm",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "26. Do No Harm",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "26. Do No Harm",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "26. Do No Harm",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 28,
+      "source": "26.5 Wolf 359 Live - Deep Space Survival Procedure and Protocol",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 25,
+      "source": "26.5 Wolf 359 Live - Deep Space Survival Procedure and Protocol",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 23,
+      "source": "26.5 Wolf 359 Live - Deep Space Survival Procedure and Protocol",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "26.5 Wolf 359 Live - Deep Space Survival Procedure and Protocol",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 20,
+      "source": "26.5 Wolf 359 Live - Deep Space Survival Procedure and Protocol",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 15,
+      "source": "26.5 Wolf 359 Live - Deep Space Survival Procedure and Protocol",
+      "target": "Cutter"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "27. Knock, Knock",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "27. Knock, Knock",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 11,
+      "source": "27. Knock, Knock",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 6,
+      "source": "27. Knock, Knock",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "27. Knock, Knock",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "28. Who_s There",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "28. Who_s There",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 7,
+      "source": "28. Who_s There",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 5,
+      "source": "28. Who_s There",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 11,
+      "source": "28. Who_s There",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "29. Pan-Pan",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 13,
+      "source": "29. Pan-Pan",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "29. Pan-Pan",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "29. Pan-Pan",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "3. Discomforts, Pains, and Irregularities",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "3. Discomforts, Pains, and Irregularities",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "3. Discomforts, Pains, and Irregularities",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 6,
+      "source": "3. Discomforts, Pains, and Irregularities",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 14,
+      "source": "30. Mayday",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 5,
+      "source": "30. Mayday",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "30. Mayday",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "30. Mayday",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "30. Mayday",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 1,
+      "source": "30. Mayday",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "31. Sécurité",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "31. Sécurité",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 7,
+      "source": "31. Sécurité",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 7,
+      "source": "31. Sécurité",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "31. Sécurité",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "31. Sécurité",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "31. Sécurité",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "31. Sécurité",
+      "target": "Maxwell"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "31.5 Mini Episode - Meanwhile",
+      "target": "Cutter"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "31.5 Mini Episode - Meanwhile",
+      "target": "Rachel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "32. Controlled Demolition",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "32. Controlled Demolition",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "32. Controlled Demolition",
+      "target": "Maxwell"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "32. Controlled Demolition",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "32. Controlled Demolition",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "32. Controlled Demolition",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "32. Controlled Demolition",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 6,
+      "source": "32. Controlled Demolition",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "33. Don_t Poke the Bear",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "33. Don_t Poke the Bear",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "33. Don_t Poke the Bear",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "33. Don_t Poke the Bear",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "33. Don_t Poke the Bear",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 7,
+      "source": "33. Don_t Poke the Bear",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 6,
+      "source": "33. Don_t Poke the Bear",
+      "target": "Maxwell"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "34. A Matter of Perspective",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "34. A Matter of Perspective",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "34. A Matter of Perspective",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "34. A Matter of Perspective",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "34. A Matter of Perspective",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "34. A Matter of Perspective",
+      "target": "Maxwell"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "34. A Matter of Perspective",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "34. A Matter of Perspective",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "34.5 Mini Episode - Long Story Short",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "34.5 Mini Episode - Long Story Short",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "34.5 Mini Episode - Long Story Short",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "35. Need to Know",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "35. Need to Know",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 13,
+      "source": "35. Need to Know",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 13,
+      "source": "35. Need to Know",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "35. Need to Know",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 11,
+      "source": "35. Need to Know",
+      "target": "Maxwell"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "35. Need to Know",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "36. Fire and Brimstone",
+      "target": "Maxwell"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 11,
+      "source": "36. Fire and Brimstone",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 11,
+      "source": "36. Fire and Brimstone",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "36. Fire and Brimstone",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "36. Fire and Brimstone",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 6,
+      "source": "36. Fire and Brimstone",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 6,
+      "source": "36. Fire and Brimstone",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "36. Fire and Brimstone",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 14,
+      "source": "37. Overture",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 6,
+      "source": "37. Overture",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 7,
+      "source": "37. Overture",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 14,
+      "source": "37. Overture",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "37. Overture",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "37. Overture",
+      "target": "Maxwell"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 7,
+      "source": "37. Overture",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 5,
+      "source": "37. Overture",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "37. Overture",
+      "target": "Cutter"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 6,
+      "source": "37.1 Mini Episode - Once in a Lifetime",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 5,
+      "source": "37.1 Mini Episode - Once in a Lifetime",
+      "target": "Rachel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 5,
+      "source": "37.1 Mini Episode - Once in a Lifetime",
+      "target": "Cutter"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "37.2 Mini Episode - Rebranding",
+      "target": "Cutter"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 5,
+      "source": "37.3 Language Mapping",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 5,
+      "source": "37.3 Language Mapping",
+      "target": "Maxwell"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 5,
+      "source": "37.4 Greensboro",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 5,
+      "source": "37.4 Greensboro",
+      "target": "Rachel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "37.5 Mini Episode - Things That Break Other Things",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "37.5 Mini Episode - Things That Break Other Things",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 5,
+      "source": "37.6 Mini Episode - Decommissioned",
+      "target": "Cutter"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "37.6 Mini Episode - Decommissioned",
+      "target": "Rachel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "37.7 Mini Episode - Pagliacci",
+      "target": "Cutter"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "37.7 Mini Episode - Pagliacci",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "37.7 Mini Episode - Pagliacci",
+      "target": "Rachel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "37.8 Mini Episode - Kansas",
+      "target": "Cutter"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "37.8 Mini Episode - Kansas",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "37.8 Mini Episode - Kansas",
+      "target": "Rachel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "38. Happy Endings",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 13,
+      "source": "38. Happy Endings",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "38. Happy Endings",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "38. Happy Endings",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 1,
+      "source": "38. Happy Endings",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 13,
+      "source": "39. All Things Considered",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 5,
+      "source": "39. All Things Considered",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 7,
+      "source": "39. All Things Considered",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 13,
+      "source": "39. All Things Considered",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "39. All Things Considered",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "39. All Things Considered",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 1,
+      "source": "39. All Things Considered",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "4. Cataracts and Hurricanoes",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "4. Cataracts and Hurricanoes",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "4. Cataracts and Hurricanoes",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 6,
+      "source": "4. Cataracts and Hurricanoes",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 11,
+      "source": "40. Limbo",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 7,
+      "source": "40. Limbo",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "40. Limbo",
+      "target": "Maxwell"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "40. Limbo",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 5,
+      "source": "40. Limbo",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "40. Limbo",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "40. Limbo",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 1,
+      "source": "40. Limbo",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "41. Memoria",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 20,
+      "source": "41. Memoria",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "41. Memoria",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 7,
+      "source": "41. Memoria",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 17,
+      "source": "41. Memoria",
+      "target": "Maxwell"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "41. Memoria",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "41. Memoria",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "41. Memoria",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 15,
+      "source": "42. Time to Kill",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 1,
+      "source": "42. Time to Kill",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 14,
+      "source": "42. Time to Kill",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 14,
+      "source": "42. Time to Kill",
+      "target": "Maxwell"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 13,
+      "source": "42. Time to Kill",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 7,
+      "source": "43. Persuasion",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "43. Persuasion",
+      "target": "Maxwell"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "43. Persuasion",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "43. Persuasion",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "43. Persuasion",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 13,
+      "source": "43. Persuasion",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "43. Persuasion",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "43. Persuasion",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 15,
+      "source": "44. Desperate Times",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "44. Desperate Times",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 14,
+      "source": "44. Desperate Times",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 14,
+      "source": "44. Desperate Times",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 15,
+      "source": "44. Desperate Times",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 7,
+      "source": "44. Desperate Times",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "44. Desperate Times",
+      "target": "Maxwell"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 7,
+      "source": "44. Desperate Times",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "45. Desperate Measures",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "45. Desperate Measures",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "45. Desperate Measures",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 7,
+      "source": "45. Desperate Measures",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "45. Desperate Measures",
+      "target": "Maxwell"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "45. Desperate Measures",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "45. Desperate Measures",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "45. Desperate Measures",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 14,
+      "source": "46. Boléro",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "46. Boléro",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 11,
+      "source": "46. Boléro",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 6,
+      "source": "46. Boléro",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 1,
+      "source": "46. Boléro",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 7,
+      "source": "46. Boléro",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "46. Boléro",
+      "target": "Maxwell"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "46. Boléro",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 50,
+      "source": "46.5 Special Episode - Change of Mind",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "46.5 Special Episode - Change of Mind",
+      "target": "Cutter"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 1,
+      "source": "46.5 Special Episode - Change of Mind",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 1,
+      "source": "46.5 Special Episode - Change of Mind",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 1,
+      "source": "46.5 Special Episode - Change of Mind",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "47. Into the Depths",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 15,
+      "source": "47. Into the Depths",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "47. Into the Depths",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "47. Into the Depths",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 14,
+      "source": "47. Into the Depths",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 7,
+      "source": "47. Into the Depths",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "47. Into the Depths",
+      "target": "Cutter"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "47. Into the Depths",
+      "target": "Pryce"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 1,
+      "source": "47. Into the Depths",
+      "target": "Rachel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "47.5 Mini Episode - One of Them",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "47.5 Mini Episode - One of Them",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "47.5 Mini Episode - One of Them",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "47.5 Mini Episode - One of Them",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 13,
+      "source": "48. Theta Scenario",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 13,
+      "source": "48. Theta Scenario",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "48. Theta Scenario",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "48. Theta Scenario",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 11,
+      "source": "48. Theta Scenario",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 11,
+      "source": "48. Theta Scenario",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 15,
+      "source": "49. Out of the Loop",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "49. Out of the Loop",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "49. Out of the Loop",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 17,
+      "source": "49. Out of the Loop",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 14,
+      "source": "49. Out of the Loop",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "49. Out of the Loop",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "5. Cigarette Candy",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "5. Cigarette Candy",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "50. The Hiccups Method",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "50. The Hiccups Method",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "50. The Hiccups Method",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 14,
+      "source": "50. The Hiccups Method",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "50. The Hiccups Method",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "50. The Hiccups Method",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 15,
+      "source": "51. Shut Up and Listen",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "51. Shut Up and Listen",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "51. Shut Up and Listen",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 5,
+      "source": "51. Shut Up and Listen",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 1,
+      "source": "51. Shut Up and Listen",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 5,
+      "source": "51. Shut Up and Listen",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "51. Shut Up and Listen",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "51. Shut Up and Listen",
+      "target": "Maxwell"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 14,
+      "source": "52. Constructive Criticism",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 14,
+      "source": "52. Constructive Criticism",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 13,
+      "source": "52. Constructive Criticism",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "52. Constructive Criticism",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "52. Constructive Criticism",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "52. Constructive Criticism",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "53. Dirty Work",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 17,
+      "source": "53. Dirty Work",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "53. Dirty Work",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 14,
+      "source": "53. Dirty Work",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 11,
+      "source": "53. Dirty Work",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 13,
+      "source": "53. Dirty Work",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "53. Dirty Work",
+      "target": "Maxwell"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "53. Dirty Work",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 14,
+      "source": "54. The Watchtower",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "54. The Watchtower",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 1,
+      "source": "54. The Watchtower",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 7,
+      "source": "55. A Place For Everything",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 6,
+      "source": "55. A Place For Everything",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "55. A Place For Everything",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "55. A Place For Everything",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "55. A Place For Everything",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "55. A Place For Everything",
+      "target": "Cutter"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 7,
+      "source": "55. A Place For Everything",
+      "target": "Rachel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "55. A Place For Everything",
+      "target": "Pryce"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 7,
+      "source": "55. A Place For Everything",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "56. Idle Hands",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "56. Idle Hands",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 6,
+      "source": "56. Idle Hands",
+      "target": "Pryce"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 7,
+      "source": "56. Idle Hands",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 7,
+      "source": "56. Idle Hands",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 5,
+      "source": "56. Idle Hands",
+      "target": "Rachel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "56. Idle Hands",
+      "target": "Cutter"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "56. Idle Hands",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 11,
+      "source": "56. Idle Hands",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 11,
+      "source": "57. The Devil_s Plaything",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "57. The Devil_s Plaything",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "57. The Devil_s Plaything",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 6,
+      "source": "57. The Devil_s Plaything",
+      "target": "Rachel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 5,
+      "source": "57. The Devil_s Plaything",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 5,
+      "source": "57. The Devil_s Plaything",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "57. The Devil_s Plaything",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 6,
+      "source": "57. The Devil_s Plaything",
+      "target": "Pryce"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "57. The Devil_s Plaything",
+      "target": "Cutter"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 11,
+      "source": "58. Quiet, Please",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 14,
+      "source": "58. Quiet, Please",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 14,
+      "source": "58. Quiet, Please",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 11,
+      "source": "58. Quiet, Please",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 11,
+      "source": "58. Quiet, Please",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "58. Quiet, Please",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "58. Quiet, Please",
+      "target": "Pryce"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "59. Crash and Burn",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 11,
+      "source": "59. Crash and Burn",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 10,
+      "source": "59. Crash and Burn",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "59. Crash and Burn",
+      "target": "Pryce"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "59. Crash and Burn",
+      "target": "Cutter"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "59. Crash and Burn",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "59. Crash and Burn",
+      "target": "Rachel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 8,
+      "source": "59. Crash and Burn",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 6,
+      "source": "59. Crash and Burn",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 7,
+      "source": "6. Super Energy Saver Mode",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "6. Super Energy Saver Mode",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "6. Super Energy Saver Mode",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "6. Super Energy Saver Mode",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 14,
+      "source": "60. Terms and Conditions",
+      "target": "Cutter"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "60. Terms and Conditions",
+      "target": "Rachel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "60. Terms and Conditions",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 12,
+      "source": "60. Terms and Conditions",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 5,
+      "source": "60. Terms and Conditions",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 6,
+      "source": "60. Terms and Conditions",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 5,
+      "source": "60. Terms and Conditions",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 7,
+      "source": "60. Terms and Conditions",
+      "target": "Pryce"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "60. Terms and Conditions",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 21,
+      "source": "60.5 Special Episode - Volte Face",
+      "target": "Cutter"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 20,
+      "source": "61. Brave New World",
+      "target": "Cutter"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 27,
+      "source": "61. Brave New World",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 18,
+      "source": "61. Brave New World",
+      "target": "Pryce"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 29,
+      "source": "61. Brave New World",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 17,
+      "source": "61. Brave New World",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 15,
+      "source": "61. Brave New World",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 27,
+      "source": "61. Brave New World",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 31,
+      "source": "61. Brave New World",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 17,
+      "source": "61. Brave New World",
+      "target": "Rachel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "61. Brave New World",
+      "target": "Maxwell"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "61. Brave New World",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "7. The Sound and the Fury",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 7,
+      "source": "7. The Sound and the Fury",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "7. The Sound and the Fury",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 7,
+      "source": "7. The Sound and the Fury",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "8. Box 953",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "8. Box 953",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "8. Box 953",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "8. Box 953",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "9. The Empty Man Cometh",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 9,
+      "source": "9. The Empty Man Cometh",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 7,
+      "source": "9. The Empty Man Cometh",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 5,
+      "source": "9. The Empty Man Cometh",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "Mini Episode - Adventure of a Lifetime",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 1,
+      "source": "Mini Episode - Adventure of a Lifetime",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "Mini Episode - Space Rage",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 1,
+      "source": "Mini Episode - Space Rage",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 1,
+      "source": "Mini Episode - Step One",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 1,
+      "source": "Mission Mishaps - A Little Night Music",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 5,
+      "source": "Mission Mishaps - Cold Turkey",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "Mission Mishaps - Cold Turkey",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "Mission Mishaps - Cold Turkey",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "Mission Mishaps - Happy Holidays",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "Mission Mishaps - Happy Holidays",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "Mission Mishaps - Happy Holidays",
+      "target": "Maxwell"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "Mission Mishaps - Lights Out",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "Mission Mishaps - Lights Out",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "Mission Mishaps - No Complaints",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "Mission Mishaps - No Complaints",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 5,
+      "source": "Mission Mishaps - The Space You_re In",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 4,
+      "source": "Mission Mishaps - The Space You_re In",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "Mission Mishaps - The Space You_re In",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "Mission Mishaps - The Veldt",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "Mission Mishaps - The Veldt",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 3,
+      "source": "Mission Mishaps - You Want, I Solve",
+      "target": "Eiffel"
+    },
+    {
+      "edge_type": "APPEARS_IN",
+      "weight": 2,
+      "source": "Mission Mishaps - You Want, I Solve",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 482,
+      "source": "Eiffel",
+      "target": "Minkowski"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 365,
+      "source": "Eiffel",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 219,
+      "source": "Eiffel",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 59,
+      "source": "Eiffel",
+      "target": "Cutter"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 287,
+      "source": "Eiffel",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 159,
+      "source": "Eiffel",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 176,
+      "source": "Eiffel",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 82,
+      "source": "Eiffel",
+      "target": "Maxwell"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 27,
+      "source": "Eiffel",
+      "target": "Rachel"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 44,
+      "source": "Eiffel",
+      "target": "Pryce"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 350,
+      "source": "Minkowski",
+      "target": "Hera"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 187,
+      "source": "Minkowski",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 51,
+      "source": "Minkowski",
+      "target": "Cutter"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 273,
+      "source": "Minkowski",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 161,
+      "source": "Minkowski",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 138,
+      "source": "Minkowski",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 63,
+      "source": "Minkowski",
+      "target": "Maxwell"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 23,
+      "source": "Minkowski",
+      "target": "Rachel"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 33,
+      "source": "Minkowski",
+      "target": "Pryce"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 133,
+      "source": "Hera",
+      "target": "Hilbert"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 238,
+      "source": "Hera",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 31,
+      "source": "Hera",
+      "target": "Cutter"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 94,
+      "source": "Hera",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 134,
+      "source": "Hera",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 81,
+      "source": "Hera",
+      "target": "Maxwell"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 22,
+      "source": "Hera",
+      "target": "Pryce"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 15,
+      "source": "Hera",
+      "target": "Rachel"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 106,
+      "source": "Hilbert",
+      "target": "Lovelace"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 7,
+      "source": "Hilbert",
+      "target": "Cutter"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 35,
+      "source": "Hilbert",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 44,
+      "source": "Hilbert",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 33,
+      "source": "Hilbert",
+      "target": "Maxwell"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 53,
+      "source": "Lovelace",
+      "target": "Cutter"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 166,
+      "source": "Lovelace",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 127,
+      "source": "Lovelace",
+      "target": "Kepler"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 74,
+      "source": "Lovelace",
+      "target": "Maxwell"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 25,
+      "source": "Lovelace",
+      "target": "Rachel"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 26,
+      "source": "Lovelace",
+      "target": "Pryce"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 134,
+      "source": "Kepler",
+      "target": "Jacobi"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 57,
+      "source": "Kepler",
+      "target": "Maxwell"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 33,
+      "source": "Kepler",
+      "target": "Cutter"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 29,
+      "source": "Kepler",
+      "target": "Rachel"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 29,
+      "source": "Kepler",
+      "target": "Pryce"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 82,
+      "source": "Jacobi",
+      "target": "Maxwell"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 22,
+      "source": "Jacobi",
+      "target": "Cutter"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 22,
+      "source": "Jacobi",
+      "target": "Pryce"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 19,
+      "source": "Jacobi",
+      "target": "Rachel"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 2,
+      "source": "Maxwell",
+      "target": "Cutter"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 1,
+      "source": "Maxwell",
+      "target": "Rachel"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 45,
+      "source": "Cutter",
+      "target": "Rachel"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 43,
+      "source": "Cutter",
+      "target": "Pryce"
+    },
+    {
+      "edge_type": "SPEAKS_TO",
+      "weight": 22,
+      "source": "Pryce",
+      "target": "Rachel"
+    }
+  ]
+}

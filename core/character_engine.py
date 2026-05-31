@@ -17,6 +17,7 @@ class CharacterEngine:
     def __init__(self):
         pass
 
+<<<<<<< HEAD
     def handle_query(
         self,
         query_embedding,
@@ -52,6 +53,8 @@ class CharacterEngine:
 
         return response
 
+=======
+>>>>>>> ed00e0d (Replace old files with new versions)
     def handle_query_stream(
         self,
         query_embedding,
@@ -66,7 +69,11 @@ class CharacterEngine:
 
         After streaming completes, the full response is stored in memory.
         """
+<<<<<<< HEAD
         results = retriever.retrieve(query_embedding, mode="character")
+=======
+        results = retriever.retrieve(query_embedding, query_text=query_text, mode="character")
+>>>>>>> ed00e0d (Replace old files with new versions)
         context_chunks = self._build_context(results)
         history = memory_manager.get_history(session_id)
         
@@ -85,6 +92,7 @@ class CharacterEngine:
         )
 
     def _build_context(self, results: list[dict]) -> list[dict]:
+<<<<<<< HEAD
         """Convert retrieval results into context dicts for prompt assembly."""
         context = []
         for r in results:
@@ -94,6 +102,30 @@ class CharacterEngine:
             context.append(
                 {
                     "doc_id": doc_id,
+=======
+        """Convert retrieval results into context dicts for prompt assembly.
+
+        Chunks with missing or empty text are skipped with a logged warning
+        rather than injecting a placeholder that would cause the LLM to
+        hallucinate.
+        """
+        import logging
+        logger = logging.getLogger(__name__)
+
+        context = []
+        for r in results:
+            text = r.get("text", "")
+            if not text or not text.strip():
+                logger.warning(
+                    "Skipping chunk with empty text — episode_id=%s, chunk_index=%s",
+                    r.get("episode_id", "?"),
+                    r.get("chunk_index", "?"),
+                )
+                continue
+            context.append(
+                {
+                    "episode_id": r["episode_id"],
+>>>>>>> ed00e0d (Replace old files with new versions)
                     "text": text,
                     "score": r.get("score", 0.0),
                 }
@@ -102,4 +134,8 @@ class CharacterEngine:
 
 
 # Module-level singleton
+<<<<<<< HEAD
 character_engine = CharacterEngine()
+=======
+character_engine = CharacterEngine()
+>>>>>>> ed00e0d (Replace old files with new versions)
