@@ -20,7 +20,7 @@ import streamlit as st
 from config import GROQ_API_KEY
 =======
 from config import GROQ_API_KEY, HF_KEY
->>>>>>> ed00e0d (Replace old files with new versions)
+
 from ui.streamlit_ui import (
     inject_custom_css,
     render_header,
