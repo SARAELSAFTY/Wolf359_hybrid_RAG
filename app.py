@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-"""
-Wolf 359 Interactive Chatbot — Main Streamlit Application.
-
-Entry point: `streamlit run app.py`
-"""
-
-=======
->>>>>>> ed00e0d (Replace old files with new versions)
 import sys
 from pathlib import Path
 
@@ -16,11 +7,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import numpy as np
 import streamlit as st
 
-<<<<<<< HEAD
-from config import GROQ_API_KEY
-=======
 from config import GROQ_API_KEY, HF_KEY
-
 from ui.streamlit_ui import (
     inject_custom_css,
     render_header,
@@ -57,32 +44,13 @@ def init_session_state():
     if "session_id" not in st.session_state:
         import uuid
         st.session_state.session_id = str(uuid.uuid4())
-<<<<<<< HEAD
-=======
     if "character_embedding" not in st.session_state:
         st.session_state.character_embedding = None
->>>>>>> ed00e0d (Replace old files with new versions)
 
 
 # ------------------------------------------------------------------
 # Query embedding helper
 # ------------------------------------------------------------------
-<<<<<<< HEAD
-@st.cache_resource
-def get_embedding_model():
-    from sentence_transformers import SentenceTransformer
-    return SentenceTransformer('all-MiniLM-L6-v2')
-
-
-def embed_query(query_text: str) -> np.ndarray:
-    """Generate a semantic embedding for the user query."""
-    model = get_embedding_model()
-    # encode returns a numpy array
-    query_emb = model.encode(query_text, convert_to_numpy=True)
-    return query_emb.astype("float32")
-
-
-=======
 import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util import Retry
@@ -129,7 +97,6 @@ def embed_query(query_text: str) -> np.ndarray:
     
     embedding = np.array(response.json(), dtype="float32")
     return embedding
->>>>>>> ed00e0d (Replace old files with new versions)
 # ------------------------------------------------------------------
 # Main application
 # ------------------------------------------------------------------
@@ -146,8 +113,6 @@ def main():
             "```\nGROQ_API_KEY=gsk_your_key_here\n```"
         )
         st.stop()
-<<<<<<< HEAD
-=======
     
     if not HF_KEY:
         st.error(
@@ -156,7 +121,6 @@ def main():
             "```\nHF_KEY=hf_your_key_here\n```"
         )
         st.stop()
->>>>>>> ed00e0d (Replace old files with new versions)
 
     # Mode selector
     mode = render_mode_selector()
@@ -165,22 +129,13 @@ def main():
     if mode != st.session_state.mode:
         st.session_state.mode = mode
         st.session_state.messages = []
-<<<<<<< HEAD
-=======
         st.session_state.character_embedding = None
->>>>>>> ed00e0d (Replace old files with new versions)
         st.rerun()
 
     # Sidebar
     exchange_count = memory_manager.get_exchange_count(
         st.session_state.session_id
     )
-<<<<<<< HEAD
-    sidebar_action = render_sidebar(mode, exchange_count)
-    if sidebar_action == "clear_history":
-        memory_manager.clear_session(st.session_state.session_id)
-        st.session_state.messages = []
-=======
     sidebar_action = render_sidebar(
         mode=mode,
         exchange_count=memory_manager.get_exchange_count(st.session_state.session_id),
@@ -193,7 +148,6 @@ def main():
         st.rerun()
     elif sidebar_action == "clear_story_history":
         memory_manager.clear_story_session(st.session_state.session_id)
->>>>>>> ed00e0d (Replace old files with new versions)
         st.rerun()
 
     # Render existing chat
@@ -215,9 +169,6 @@ def main():
         )
 
         # Generate embedding
-<<<<<<< HEAD
-        query_emb = embed_query(user_input)
-=======
         if mode == "story":
             query_emb = embed_query(user_input)
         else:
@@ -226,7 +177,6 @@ def main():
                 st.session_state.character_embedding = query_emb
             else:
                 query_emb = st.session_state.character_embedding
->>>>>>> ed00e0d (Replace old files with new versions)
 
         # Generate response with streaming
         with st.chat_message("assistant", avatar="🛰️"):
@@ -238,11 +188,7 @@ def main():
             with st.spinner(status_text):
                 if mode == "story":
                     response_stream = story_engine.handle_query_stream(
-<<<<<<< HEAD
-                        query_emb, user_input
-=======
                         query_emb, user_input,st.session_state.session_id,
->>>>>>> ed00e0d (Replace old files with new versions)
                     )
                 else:
                     response_stream = character_engine.handle_query_stream(
@@ -259,8 +205,4 @@ def main():
 
 
 if __name__ == "__main__":
-<<<<<<< HEAD
     main()
-=======
-    main()
->>>>>>> ed00e0d (Replace old files with new versions)

@@ -1,9 +1,4 @@
 """
-<<<<<<< HEAD
-LangGraph workflow for routing queries to the appropriate engine.
-
-=======
->>>>>>> ed00e0d (Replace old files with new versions)
 Routes to StoryEngine or CharacterEngine based on the user's mode selection.
 """
 
@@ -38,16 +33,6 @@ def route_decision(state: QueryState) -> str:
 
 
 def story_node(state: QueryState) -> dict:
-<<<<<<< HEAD
-    """Process query through the story engine."""
-    response = story_engine.handle_query(
-        state["query_embedding"],
-        state["query_text"],
-    )
-    return {"response": response}
-
-
-=======
     """Process query through the story engine with state memory."""
     response = story_engine.handle_query(
         state["query_embedding"],
@@ -56,7 +41,6 @@ def story_node(state: QueryState) -> dict:
     )
     return {"response": response}
 
->>>>>>> ed00e0d (Replace old files with new versions)
 def character_node(state: QueryState) -> dict:
     """Process query through the character engine."""
     response = character_engine.handle_query(
@@ -103,24 +87,9 @@ def route_query(
     mode: str,
     session_id: str = "default",
 ) -> str:
-<<<<<<< HEAD
-    """
-    Route a query through the LangGraph workflow and return the response.
-
-    Args:
-        query_text: The user's question.
-        query_embedding: The query vector (768-dim numpy array).
-        mode: "story" or "character".
-        session_id: Session ID for memory (character mode).
-
-    Returns:
-        The generated response string.
-    """
-=======
     
     #Route a query through the LangGraph workflow and return the response.
     
->>>>>>> ed00e0d (Replace old files with new versions)
     app = build_workflow()
     initial_state: QueryState = {
         "query_text": query_text,
