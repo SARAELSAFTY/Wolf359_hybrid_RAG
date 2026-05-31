@@ -14,7 +14,7 @@ An advanced conversational AI system for exploring the Wolf 359 podcast universe
 - **Knowledge Graph**: Maps character interactions, episode connections, and thematic relationships
 
 ### Intelligent LLM Selection
-- **Llama-3.1-8B-Instant** for story mode: Fast, efficient summarization with sub-second latency
+- **openai/gpt-oss-120b** for story mode: Fast, efficient summarization with sub-second latency
 - **Llama-3.3-70B** for character mode: Superior personality consistency and conversational depth
 
 ### Privacy-Focused Design
@@ -99,7 +99,7 @@ The system follows a clean layered architecture:
 
 ```bash
 git clone https://github.com/SARAELSAFTY/Wolf359_hybrid_RAG.git
-cd wolf359-rag
+
 ```
 
 2. **Create and activate a virtual environment**
@@ -129,7 +129,7 @@ Create a `.env` file in the project root:
 GROQ_API_KEY=your_groq_api_key_here
 
 # Optional
-STORY_MODEL=llama-3.1-8b-instant
+STORY_MODEL=openai/gpt-oss-120b
 CHARACTER_MODEL=llama-3.3-70b-versatile
 MAX_MEMORY_EXCHANGES=10
 VECTOR_TOP_K=20
@@ -139,10 +139,10 @@ FINAL_TOP_K=5
 5. **Verify asset files**
 
 Ensure these files exist in the `assets/` directory:
-- `embeddings.npy`
-- `vector_store.index`
-- `metadata.json`
-- `relationship_graph.json`
+- `new_embeddings.npy`
+- `faiss_v7.index`
+- `newmetadata_v7.json`
+- `relationship_graph_2.json`
 
 
 ---
@@ -152,43 +152,6 @@ Ensure these files exist in the `assets/` directory:
 ### config.py
 
 All configuration is centralized in `config.py`:
-
-```python
-    import os
-    from pathlib import Path
-    from dotenv import load_dotenv
-
-    load_dotenv()
-
-    # Base paths
-    BASE_DIR = Path(__file__).resolve().parent
-    ASSETS_DIR = BASE_DIR / "assets"
-
-    # Asset Paths
-    EMBEDDINGS_PATH = ASSETS_DIR / "embeddings.npy"
-    FAISS_INDEX_PATH = ASSETS_DIR / "vector_store.index"
-    METADATA_PATH = ASSETS_DIR / "metadata.json"
-    GRAPH_PATH = ASSETS_DIR / "relationship_graph.json"
-
-    # API Keys
-    GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
-
-    # LLM Config
-    STORY_MODEL = "llama-3.1-8b-instant"
-    CHARACTER_MODEL = "llama-3.3-70b-versatile" # "llama-3.3-70b" mapped to a valid standard groq identifier
-
-    # Retrieval Config
-    VECTOR_TOP_K = 12
-    GRAPH_MAX_HOPS = 1
-    VECTOR_WEIGHT = 0.8
-    GRAPH_WEIGHT = 0.2
-    FINAL_TOP_K = 8
-    SIMILARITY_THRESHOLD = 0.22
-
-    # Memory Config
-    MEMORY_WINDOW_SIZE = 10
-
-```
 
 ---
 
@@ -215,7 +178,7 @@ Ask factual questions about the Wolf 359 universe:
 - "What are the main themes of Wolf 359?"
 - "How do Doug and Minkowski's relationship evolve?"
 
-**Model Used:** Llama-3.1-8B-Instant  
+**Model Used:** openai/gpt-oss-120b  
 **Focus:** Factual accuracy, comprehensive coverage  
 **Memory:** None (each query is independent)
 
@@ -270,10 +233,10 @@ wolf359-rag/
 │   └── loaders.py             # Data loading utilities
 │
 └── assets/                     # Pre-computed data
-    ├── embeddings.npy          # Chunk embeddings (NumPy array)
-    ├── vector_store.index      # FAISS similarity index
-    ├── metadata.json           # Episode/speaker/scene metadata
-    └── relationship_graph.json # Serialized NetworkX graph
+    ├── new_embeddings.npy          # Chunk embeddings (NumPy array)
+    ├── faiss_v7.index      # FAISS similarity index
+    ├── newmetadata_v7.json           # Episode/speaker/scene metadata
+    └── relationship_graph_2.json # Serialized NetworkX graph
 ```
 
 ### Key Files Explained
@@ -305,12 +268,12 @@ The Streamlit UI captures your query and current mode selection.
 
 #### 3. **Hybrid Retrieval**
 
-**Vector Search (60% weight):**
-- Query is embedded into a 1536-dimensional vector
+**Vector Search:**
+- Query is embedded into a vector
 - FAISS searches for the top-20 most semantically similar script chunks
 - Uses cosine similarity for ranking
 
-**Graph Expansion (40% weight):**
+**Graph Expansion:**
 - For each retrieved chunk, traverse the knowledge graph
 - Explore up to 2 hops to find:
   - Related episodes
@@ -335,7 +298,7 @@ The prompt combines:
 - Current query
 
 #### 6. **LLM Generation**
-- **Story Mode**: Llama-3.1-8B with `temperature=0.3` for factual accuracy
+- **Story Mode**: openai/gpt-oss-120b `temperature=0.3` for factual accuracy
 - **Character Mode**: Llama-3.3-70B with `temperature=0.7` for personality
 
 Response is streamed token-by-token for real-time display.
