@@ -113,15 +113,7 @@ class HybridRetriever:
         # --- Step 3: Hybrid merge ---
         merged = self._merge(vector_results, graph_results)
 
-        # --- Step 4: Mode-specific filtering ---
-        if mode == "character":
-            # Filter down to specific character indices via graph service utilities
-            doug_indices = set(
-                graph_service.filter_character_indices("Doug Eiffel", self.metadata)
-            )
-            merged = [r for r in merged if r["chunk_index"] in doug_indices]
-
-        # --- Step 5: Smart rerank for episode diversity ---
+        # --- Step 4: Smart rerank for episode diversity ---
         final = self._smart_rerank(merged, mode)
         
         # Debug: Show episode distribution
