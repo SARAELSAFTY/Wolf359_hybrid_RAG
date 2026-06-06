@@ -348,7 +348,7 @@ echo "GROQ_API_KEY=your_key_here" > .env
 streamlit run app.py
 ```
 
-**That's it!** Open `http://localhost:8501` and start chatting with Doug Eiffel or exploring the Wolf 359 universe.
+**That's it!** Open and start chatting with Doug Eiffel or exploring the Wolf 359 universe.
 
 ---
 
