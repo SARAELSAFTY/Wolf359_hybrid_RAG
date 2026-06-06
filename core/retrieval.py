@@ -221,7 +221,7 @@ class HybridRetriever:
                 continue
             
             similarity = float(dist)
-            if similarity < SIMILARITY_THRESHOLD :
+            if similarity < SIMILARITY_THRESHOLD * 0.5:
                 continue
             
             meta_entry = self.metadata[idx_int]
